@@ -1,5 +1,6 @@
 # Distance-calculator
-Calculates distance in Km and time to travel between the cities you type in and duration of trip between them....
+Calculates distance in Km and time to travel between the cities you type in and duration of trip between them...
+
 
 ![untitled1](https://user-images.githubusercontent.com/31318398/31027414-721f8704-a54a-11e7-8cf0-c387ed96851a.png)
 
